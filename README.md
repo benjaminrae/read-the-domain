@@ -24,3 +24,8 @@ So I thought it would be a good idea to start collecting them so that they can b
 ### Weather
 
 - [doineedanumbrella.com](http://doineedanumbrella.com/)
+
+### Misc
+
+- [isitchristmas.com](https://isitchristmas.com/)
+
