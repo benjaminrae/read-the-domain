@@ -17,6 +17,10 @@ So I thought it would be a good idea to start collecting them so that they can b
 
 - [isittimetolookatjoboffersandstartapplying.com](https://isittimetolookatjoboffersandstartapplying.com/)
 
-### Misc
+### Science
 
 - [howmanypeopleareinspacerightnow.com](https://www.howmanypeopleareinspacerightnow.com/)
+
+### Weather
+
+- [doineedanumbrella.com](http://doineedanumbrella.com/)
