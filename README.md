@@ -12,6 +12,7 @@ So I thought it would be a good idea to start collecting them so that they can b
 - [dayssincelastjsframework.com](https://dayssincelastjsframework.com/)
 - [doesmysiteneedhttps.com](https://doesmysiteneedhttps.com/)
 - [shoulditestprivatemethods.com](https://shoulditestprivatemethods.com/)
+- [ismycomputeron.com](http://ismycomputeron.com/)
 
 ### Careers
 
@@ -20,13 +21,17 @@ So I thought it would be a good idea to start collecting them so that they can b
 ### Science
 
 - [howmanypeopleareinspacerightnow.com](https://www.howmanypeopleareinspacerightnow.com/)
+- [hasthelargehadroncolliderdestoyedtheworldyet.com](https://hasthelargehadroncolliderdestroyedtheworldyet.com/)
 
 ### Weather
 
 - [doineedanumbrella.com](http://doineedanumbrella.com/)
 
-### Misc
+### Holidays
 
 - [isitchristmas.com](https://isitchristmas.com/)
 - [isitnewyearsday.com](https://isitnewyearsday.com/)
 
+### Entertainment
+
+- [doesthedogdie.com](https://www.doesthedogdie.com/)
