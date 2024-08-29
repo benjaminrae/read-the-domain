@@ -28,4 +28,5 @@ So I thought it would be a good idea to start collecting them so that they can b
 ### Misc
 
 - [isitchristmas.com](https://isitchristmas.com/)
+- [isitnewyearsday.com](https://isitnewyearsday.com/)
 
