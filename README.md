@@ -14,7 +14,7 @@ So I thought it would be a good idea to start a collection of clever domain name
 - [shoulditestprivatemethods.com](https://shoulditestprivatemethods.com/)
 - [ismycomputeron.com](http://ismycomputeron.com/)
 - [isitmaintained.com](https://isitmaintained.com/)
-- [whatthefont.com](https://isitmaintained.com/)
+- [whatthefont.com](https://whatthefont.com/)
 - [isitabug.com](https://isitabug.com/)
 - [isitdns.com](https://isitdns.com/)
 
