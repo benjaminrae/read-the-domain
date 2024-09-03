@@ -58,7 +58,7 @@ So I thought it would be a good idea to start a collection of clever domain name
 - [doesthedogdie.com](https://www.doesthedogdie.com/)
 - [onesquareminesweeper.com](https://onesquareminesweeper.com/)
 - [pointerpointer.com](https://pointerpointer.com/)
-- [eelslap.com](https://isitmaintained.com/)
+- [eelslap.com](https://eelslap.com/)
 - [hackertyper.com](https://hackertyper.net/)
 - [findtheinvisiblecow.com](https://findtheinvisiblecow.com/)
   
